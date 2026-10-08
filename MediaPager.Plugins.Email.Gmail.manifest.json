@@ -1,0 +1,9 @@
+{
+  "id": "mediapager.email.gmail",
+  "name": "Gmail",
+  "description": "Send email through Gmail's API.",
+  "author": "Nobugsgiven",
+  "types": "email",
+  "sdk": "MediaPager.App.PluginContracts",
+  "sdkVersion": "0.1.0"
+}
